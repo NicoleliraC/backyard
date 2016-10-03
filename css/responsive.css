@@ -1,6 +1,9 @@
-/
 @media (min-width: 535px) and (max-width: 824px){
-.col{
+	.col-6{
 	max-width: 100%;
+	}
+	.formulario{
+	
+	}
 }
-}
+	
